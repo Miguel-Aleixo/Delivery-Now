@@ -11,8 +11,6 @@ JavaScript (ES6+): Linguagem de programação utilizada para lógica de aplicaç
 
 Tailwind CSS: Framework CSS utilitário para estilização rápida e responsiva.
 
-Outras dependências: (Se houver outras bibliotecas ou ferramentas utilizadas, liste-as aqui.)
-
 🧰 Funcionalidades principais
 Visualização do cardápio: Exibição de pizzas disponíveis com detalhes como nome, descrição e preço.
 
