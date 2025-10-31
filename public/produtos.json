@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Pizza Margherita",
+    "descricao": "Molho de tomate, mussarela de búfala, manjericão e azeite de oliva.",
+    "preco": 29.90,
+    "img": "/imagem/pizza_item.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Pizza Pepperoni",
+    "descricao": "Molho de tomate, queijo mussarela e fatias de pepperoni crocante.",
+    "preco": 34.90,
+    "img": "/imagem/pizza_item.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Pizza Quatro Queijos",
+    "descricao": "Queijos parmesão, gorgonzola, muçarela e provolone com molho de tomate.",
+    "preco": 39.90,
+    "img": "/imagem/pizza_item.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Pizza Calabresa",
+    "descricao": "Molho de tomate, queijo mussarela, calabresa, cebolas roxas e azeitonas.",
+    "preco": 32.90,
+    "img": "/imagem/pizza_item.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Pizza Vegetariana",
+    "descricao": "Molho de tomate, queijo mussarela, pimentões, abobrinha, cogumelos, cebolas e azeitonas.",
+    "preco": 36.90,
+    "img": "/imagem/pizza_item.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Pizza Frango com Catupiry",
+    "descricao": "Molho branco, frango desfiado, catupiry e queijo mussarela.",
+    "preco": 37.90,
+    "img": "/imagem/pizza_item.jpg"
+  }
+]
