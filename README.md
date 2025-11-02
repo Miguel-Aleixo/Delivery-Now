@@ -67,5 +67,10 @@ Editar
 ├── next.config.js       # Configuração do Next.js
 └── package.json         # Dependências e scripts do projeto
 
+⚙️ Variáveis de ambiente
+Crie um arquivo .env.local na raiz do projeto com as seguintes variáveis:
+
+NEXT_PUBLIC_API_URL=http://localhost:8080/api
+
 📄 Licença
 Este projeto está licenciado sob a MIT License.
