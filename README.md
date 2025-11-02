@@ -50,7 +50,6 @@ Editar
 npm run dev
 # ou
 yarn dev
-Acesse a aplicação em http://localhost:3000
 
 🗂️ Estrutura do projeto
 plaintext
@@ -67,12 +66,6 @@ Editar
 ├── tailwind.config.js   # Configuração do Tailwind CSS
 ├── next.config.js       # Configuração do Next.js
 └── package.json         # Dependências e scripts do projeto
-
-
-⚙️ Variáveis de ambiente
-Crie um arquivo .env.local na raiz do projeto com as seguintes variáveis:
-
-dentro do .env = NEXT_PUBLIC_API_URL=http://localhost:8080/api
 
 📄 Licença
 Este projeto está licenciado sob a MIT License.
